@@ -1,0 +1,62 @@
+NodeM* creeaza_arbore_multicai(NodeM** root, NodeT** list, int key)
+{
+
+    NodeM* newR = creeaza_nod_m(key);
+    if (root == NULL)
+    {
+        root = newR;
+
+        NodeT* node = list[key];
+        if (node != NULL)
+        {    
+            (*root)->primul_copil = creeaza_arbore_multicai(&((*root)->primul_copil), list, node->key);
+            (*root)->primul_copil = (*root)->primul_copil;
+            if (node->next != NULL)
+            {
+
+                node = node->next;
+                
+                while (node != NULL)
+                {
+                    
+                    
+                    (*root)->primul_copil->next = creeaza_arbore_multicai(&((*root)->primul_copil->next), list, node->key);
+                    
+                    printf("frate drept %d copil %d root %d primul copil %d\n", (*root)->primul_copil->next->key, (*root)->primul_copil->key, (*root)->key, (*root)->primul_copil->key);
+                    (*root)->primul_copil->next->parinte = (*root);
+                    (*root)->primul_copil = (*root)->primul_copil->next;
+
+                   node = node->next;
+                }
+                printf("\n");
+            }
+        }
+    }
+    return (*root);
+}
+
+
+  if (root == NULL)
+    {
+        return 0;
+    }
+    int h = 0;
+
+    h = inaltime_arbore_multicai(root->primul_copil);
+    
+    if (root->parinte != NULL)
+    {
+        // se adauga 1 deoarece inca ne aflam pe nivelul copilui ( deci parintele va avea cu o unitate in plus fata de copil)
+        if (h + 1 > root->parinte->inaltime)
+        {   printf("intri macar? %d %d %d %d ",h+1,root->parinte->inaltime,root->key,root->parinte->key);
+            root->parinte->inaltime = h + 1;
+            printf("%d\n", root->parinte->inaltime);
+        }
+    }
+    inaltime_arbore_multicai(root->next);
+    if (h > root->inaltime)
+    {
+        root->inaltime = h ;
+    }
+    printf("%d %d %d\n", h,root->inaltime, root->key);
+    return root->inaltime + 1;

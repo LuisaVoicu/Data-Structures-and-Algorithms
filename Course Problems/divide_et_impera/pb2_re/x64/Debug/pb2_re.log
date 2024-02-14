@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\an1sem2\SDA\curs_probleme\divide_et_impera\pb2_re\Source.c(55): warning C4715: 'pseudo_bs': not all control paths return a value
+  pb2_re.vcxproj -> D:\an1sem2\SDA\curs_probleme\divide_et_impera\pb2_re\x64\Debug\pb2_re.exe

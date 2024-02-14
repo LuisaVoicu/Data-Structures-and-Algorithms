@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b3583cb-b94d-4fcd-8ad4-1b2373f3dbb8": {
+      "ProjectGuid": "9b3583cb-b94d-4fcd-8ad4-1b2373f3dbb8",
+      "DisplayName": "6 nodurile din drumul de lungime minima",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

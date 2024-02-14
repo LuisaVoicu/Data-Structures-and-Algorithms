@@ -1,0 +1,3 @@
+﻿  regine.c
+D:\an1sem2\SDA\t2\recap_alg\backtracking\regine\regine.c(61,34): warning C4020: 'malloc': too many actual parameters
+  regine.vcxproj -> D:\an1sem2\SDA\t2\recap_alg\backtracking\regine\x64\Debug\regine.exe

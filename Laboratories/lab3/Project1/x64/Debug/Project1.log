@@ -1,0 +1,14 @@
+﻿  xor_lista_dublu_inlantuita.c
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(24,24): warning C4133: '=': incompatible types - from 'int *' to 'NodeType *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(56,31): warning C4133: '=': incompatible types - from 'NodeType *' to 'int *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(57,30): warning C4133: '=': incompatible types - from 'NodeType *' to 'int *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(63,27): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(63,35): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(63,36): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(64,31): warning C4133: '=': incompatible types - from 'int *' to 'NodeType *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(66,35): warning C4133: '=': incompatible types - from 'int *' to 'NodeType *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(67,30): warning C4133: '=': incompatible types - from 'int *' to 'NodeType *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(69,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'NodeDL *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(69,16): warning C4313: 'printf': '%d' in format string conflicts with argument 3 of type 'NodeDL *'
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\xor_lista_dublu_inlantuita.c(93,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  Project1.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab3 - sp\Project1\x64\Debug\Project1.exe

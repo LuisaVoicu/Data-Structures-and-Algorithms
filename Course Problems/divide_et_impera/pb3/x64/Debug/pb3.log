@@ -1,0 +1,3 @@
+﻿  pb3.c
+D:\an1sem2\SDA\curs_probleme\divide_et_impera\pb3\pb3.c(27): warning C4715: 'search_first': not all control paths return a value
+  pb3.vcxproj -> D:\an1sem2\SDA\curs_probleme\divide_et_impera\pb3\x64\Debug\pb3.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\an1sem2\SDA\t2\recap_alg\backtracking\rucsac\Source.c(54,34): warning C4020: 'malloc': too many actual parameters
+  rucsac.vcxproj -> D:\an1sem2\SDA\t2\recap_alg\backtracking\rucsac\x64\Debug\rucsac.exe

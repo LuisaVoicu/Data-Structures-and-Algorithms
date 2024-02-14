@@ -1,0 +1,5 @@
+﻿  problema2.c
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb2\problema2.c(31,9): warning C4033: 'Create_BinTree' must return a value
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb2\problema2.c(59,16): warning C4098: 'Swap_Subtree': 'void' function returning a value
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb2\problema2.c(38): warning C4715: 'Create_BinTree': not all control paths return a value
+  pb2.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb2\x64\Debug\pb2.exe

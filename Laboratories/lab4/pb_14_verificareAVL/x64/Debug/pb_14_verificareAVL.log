@@ -1,0 +1,5 @@
+﻿  problema14.c
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb_14_verificareAVL\problema14.c(49,36): warning C4474: 'printf' : too many arguments passed for format string
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb_14_verificareAVL\problema14.c(49,36): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb_14_verificareAVL\problema14.c(112): warning C4715: 'is_AVL': not all control paths return a value
+  pb_14_verificareAVL.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb_14_verificareAVL\x64\Debug\pb_14_verificareAVL.exe

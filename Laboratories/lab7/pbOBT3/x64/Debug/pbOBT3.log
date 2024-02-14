@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\an1sem2\SDA\lab_probleme\lab8-sp\pbOBT3\Source.c(141,17): warning C4098: 'ciclu': 'void' function returning a value
+  pbOBT3.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab8-sp\pbOBT3\x64\Debug\pbOBT3.exe

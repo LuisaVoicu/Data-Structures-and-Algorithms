@@ -1,0 +1,3 @@
+﻿  main.c
+D:\an1sem2\SDA\curs_probleme\curs3-4\problema9_inaltimeABC\main.c(20): warning C4716: 'create_nodeT': must return a value
+  problema9_inaltimeABC.vcxproj -> D:\an1sem2\SDA\curs_probleme\curs3-4\problema9_inaltimeABC\x64\Debug\problema9_inaltimeABC.exe

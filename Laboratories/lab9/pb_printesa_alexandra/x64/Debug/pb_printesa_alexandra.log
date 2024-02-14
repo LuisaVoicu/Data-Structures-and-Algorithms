@@ -1,0 +1,7 @@
+﻿  queue.c
+D:\an1sem2\SDA\lab_probleme\lab9 - sp\pb_printesa_alexandra\queue.c(60,15): warning C4013: 'printf' undefined; assuming extern returning int
+  Source.c
+D:\an1sem2\SDA\lab_probleme\lab9 - sp\pb_printesa_alexandra\Source.c(17,20): warning C4101: 'j_new': unreferenced local variable
+D:\an1sem2\SDA\lab_probleme\lab9 - sp\pb_printesa_alexandra\Source.c(17,13): warning C4101: 'i_new': unreferenced local variable
+  Generating Code...
+  pb_printesa_alexandra.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab9 - sp\pb_printesa_alexandra\x64\Debug\pb_printesa_alexandra.exe

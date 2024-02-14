@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\an1sem2\SDA\t2\recap_alg\parcurgeri_graf\bfs_matrice_adiacenta\Source.c(57,19): warning C4047: 'return': 'int' differs in levels of indirection from 'NodeT *'
+D:\an1sem2\SDA\t2\recap_alg\parcurgeri_graf\bfs_matrice_adiacenta\Source.c(52,1): warning C4047: 'initializing': 'NodeT *' differs in levels of indirection from 'int'
+  bfs_matrice_adiacenta.vcxproj -> D:\an1sem2\SDA\t2\recap_alg\parcurgeri_graf\bfs_matrice_adiacenta\x64\Debug\bfs_matrice_adiacenta.exe

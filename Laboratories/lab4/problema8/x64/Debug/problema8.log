@@ -1,0 +1,3 @@
+﻿  source.c
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\problema8\source.c(52,18): warning C4101: 'c': unreferenced local variable
+  problema8.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab4 - sp\problema8\x64\Debug\problema8.exe

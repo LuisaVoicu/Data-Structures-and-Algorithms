@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\an1sem2\SDA\t2\recap_alg\greedy\rucsac\Source.c(56,16): warning C4778: 'printf' : unterminated format string '%\n'
+  rucsac.vcxproj -> D:\an1sem2\SDA\t2\recap_alg\greedy\rucsac\x64\Debug\rucsac.exe

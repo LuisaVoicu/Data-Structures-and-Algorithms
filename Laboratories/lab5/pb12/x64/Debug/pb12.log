@@ -1,0 +1,5 @@
+﻿  pb12.c
+D:\an1sem2\SDA\lab_probleme\lab5 - sp\pb12\pb12.c(16,11): warning C4013: 'memcpy' undefined; assuming extern returning int
+D:\an1sem2\SDA\lab_probleme\lab5 - sp\pb12\pb12.c(28,15): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\an1sem2\SDA\lab_probleme\lab5 - sp\pb12\pb12.c(138,11): warning C4013: 'strcpy' undefined; assuming extern returning int
+  pb12.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab5 - sp\pb12\x64\Debug\pb12.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\an1sem2\SDA\lab_probleme\lab10-sp\pb2_conversie\Source.c(29,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  pb2_conversie.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab10-sp\pb2_conversie\x64\Debug\pb2_conversie.exe

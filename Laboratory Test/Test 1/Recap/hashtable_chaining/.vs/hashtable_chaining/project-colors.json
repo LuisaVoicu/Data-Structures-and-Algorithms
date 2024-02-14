@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac11d3ad-579a-46fb-946d-eea78ff1ff31": {
+      "ProjectGuid": "ac11d3ad-579a-46fb-946d-eea78ff1ff31",
+      "DisplayName": "hashtable_chaining",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

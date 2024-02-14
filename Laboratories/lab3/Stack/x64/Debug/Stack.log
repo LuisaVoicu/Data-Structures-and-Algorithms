@@ -1,0 +1,3 @@
+﻿  stack.c
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Stack\stack.c(100,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  Stack.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab3 - sp\Stack\x64\Debug\Stack.exe

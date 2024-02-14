@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3f1bd55-ee73-472e-966d-ef199b24f8e1": {
+      "ProjectGuid": "c3f1bd55-ee73-472e-966d-ef199b24f8e1",
+      "DisplayName": "pb7_rucsac_intreg",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

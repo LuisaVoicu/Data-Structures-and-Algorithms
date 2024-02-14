@@ -1,0 +1,3 @@
+﻿  direct_addressing.c
+D:\an1sem2\SDA\lab_probleme\lab6-sp\hash_table_direct_addressing\direct_addressing.c(19,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'Cell'
+  hash_table_direct_addressing.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab6-sp\hash_table_direct_addressing\x64\Debug\hash_table_direct_addressing.exe

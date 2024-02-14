@@ -1,0 +1,4 @@
+﻿  binaryTree.c
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\BinaryTree\binaryTree.c(30,13): warning C4033: 'createBinaryTree' must return a value
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\BinaryTree\binaryTree.c(38): warning C4715: 'createBinaryTree': not all control paths return a value
+  BinaryTree.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab4 - sp\BinaryTree\x64\Debug\BinaryTree.exe

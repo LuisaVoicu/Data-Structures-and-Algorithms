@@ -1,0 +1,3 @@
+﻿  queue.c
+D:\an1sem2\SDA\lab_probleme\lab3 - sp\Queue\queue.c(109,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  Queue.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab3 - sp\Queue\x64\Debug\Queue.exe

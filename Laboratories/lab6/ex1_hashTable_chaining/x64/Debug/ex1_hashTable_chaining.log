@@ -1,0 +1,3 @@
+﻿  chaining.c
+D:\an1sem2\SDA\lab_probleme\lab6-sp\ex1_hashTable_chaining\chaining.c(16): warning C4716: 'createNode': must return a value
+  ex1_hashTable_chaining.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab6-sp\ex1_hashTable_chaining\x64\Debug\ex1_hashTable_chaining.exe

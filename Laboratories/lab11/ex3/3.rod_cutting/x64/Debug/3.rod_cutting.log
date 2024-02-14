@@ -1,0 +1,4 @@
+﻿  rod_cutting.c
+D:\an1sem2\SDA\lab_probleme\lab10-sp\3.rod_cutting\rod_cutting.c(47): warning C4716: 'rod_cutting_bu': must return a value
+D:\an1sem2\SDA\lab_probleme\lab10-sp\3.rod_cutting\rod_cutting.c(70): warning C4716: 'rod_cutting_bu_solution': must return a value
+  3.rod_cutting.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab10-sp\3.rod_cutting\x64\Debug\3.rod_cutting.exe

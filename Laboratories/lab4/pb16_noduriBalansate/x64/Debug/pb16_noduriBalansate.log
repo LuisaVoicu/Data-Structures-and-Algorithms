@@ -1,0 +1,3 @@
+﻿  problema16.c
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb16_noduriBalansate\problema16.c(148): warning C4715: 'is_AVL': not all control paths return a value
+  pb16_noduriBalansate.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb16_noduriBalansate\x64\Debug\pb16_noduriBalansate.exe

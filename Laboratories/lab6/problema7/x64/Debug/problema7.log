@@ -1,0 +1,3 @@
+﻿  pb7.c
+D:\an1sem2\SDA\lab_probleme\lab6-sp\problema7\pb7.c(17,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  problema7.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab6-sp\problema7\x64\Debug\problema7.exe

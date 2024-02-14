@@ -1,0 +1,149 @@
+NodeM* creeaza_arbore_multicai(NodeM* root, NodeT** list,int key)
+{
+    printf("%d \n", key);
+    NodeM* newR = creeaza_nod_m(key);
+    if (root == NULL)
+    {
+        root = newR;
+        NodeT* node = list[key];
+        if (node != NULL)
+        {   // 
+            root->primul_copil = creeaza_arbore_multicai(root->primul_copil, list, node->key);
+            printf("root %d\n ", root->primul_copil->key);
+            if (node->next != NULL)
+            {
+                printf("root %d ", root->key);
+                node = node->next;
+                while (node != NULL)
+                {
+                    printf("%d ", node->key);
+                    node = node->next;
+                }
+                printf("\n");
+            }
+        }
+    }
+    return root;
+}
+
+
+
+
+
+
+
+
+
+NodeM* creeaza_arbore_multicai(NodeM** root, NodeT** list,int key)
+{
+    printf("%d \n", key);
+    NodeM* newR = creeaza_nod_m(key);
+    if ((*root) == NULL)
+    {
+        (*root) = newR;
+        NodeT* node = list[key];
+        if (node != NULL)
+        {   // 
+            (*root)->primul_copil = creeaza_arbore_multicai(&((*root)->primul_copil), list, node->key);
+            printf("root %d\n ", (*root)->primul_copil->key);
+            if (node->next != NULL)
+            {
+                printf("root %d ", (*root)->key);
+                node = node->next;
+                while (node != NULL)
+                {
+                    printf("%d ", node->key);
+                    node = node->next;
+                }
+                printf("\n");
+            }
+        }
+    }
+    return root;
+}
+
+
+
+
+NodeM* creeaza_arbore_multicai(NodeM* root, NodeT** list, int key)
+{
+
+    NodeM* newR = creeaza_nod_m(key);
+    if (root == NULL)
+    {
+        root = newR;
+
+        NodeT* node = list[key];
+        if (node != NULL)
+        {    
+            root->primul_copil = creeaza_arbore_multicai(root->primul_copil, list, node->key);
+  
+            if (node->next != NULL)
+            {
+
+                node = node->next;
+                printf("%d %d nb %d \n", root->key,root->primul_copil->key,root->primul_copil->nbs);
+                while (node != NULL)
+                {
+                    
+                    
+                    root->primul_copil->next = creeaza_arbore_multicai(root->primul_copil->next, list, node->key);
+                    
+                    printf("frate drept %d copil %d root %d \n", root->primul_copil->next->key,root->primul_copil->key,root->key);
+                    root->primul_copil->next->parinte = root;
+                    root->primul_copil = root->primul_copil->next;
+
+                   node = node->next;
+                }
+                printf("\n");
+            }
+        }
+    }
+    return root;
+}
+
+
+
+
+
+
+
+
+
+
+NodeM* creeaza_arbore_multicai(NodeM* root, NodeT** list, int key)
+{
+
+    NodeM* newR = creeaza_nod_m(key);
+    if (root == NULL)
+    {
+        root = newR;
+
+        NodeT* node = list[key];
+        if (node != NULL)
+        {    
+            root->primul_copil = creeaza_arbore_multicai(root->primul_copil, list, node->key);
+            root->primul_copil = root->primul_copil;
+            if (node->next != NULL)
+            {
+
+                node = node->next;
+                
+                while (node != NULL)
+                {
+                    
+                    
+                    root->primul_copil->next = creeaza_arbore_multicai(root->primul_copil->next, list, node->key);
+                    
+                    printf("frate drept %d copil %d root %d primul copil %d\n", root->primul_copil->next->key,root->primul_copil->key,root->key,root->primul_copil->key);
+                    root->primul_copil->next->parinte = root;
+                    root->primul_copil = root->primul_copil->next;
+
+                   node = node->next;
+                }
+                printf("\n");
+            }
+        }
+    }
+    return root;
+}

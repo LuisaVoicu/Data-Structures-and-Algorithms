@@ -1,0 +1,4 @@
+﻿  problema4.c
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\problema4\problema4.c(31,9): warning C4033: 'createBinaryTree' must return a value
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\problema4\problema4.c(39): warning C4715: 'createBinaryTree': not all control paths return a value
+  problema4.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab4 - sp\problema4\x64\Debug\problema4.exe

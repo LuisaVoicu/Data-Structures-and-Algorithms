@@ -1,0 +1,4 @@
+﻿  pb5.c
+D:\an1sem2\SDA\lab_probleme\lab6-sp\problema5\pb5.c(15,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\an1sem2\SDA\lab_probleme\lab6-sp\problema5\pb5.c(119,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  problema5.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab6-sp\problema5\x64\Debug\problema5.exe

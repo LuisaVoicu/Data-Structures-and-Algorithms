@@ -1,0 +1,3 @@
+﻿  queue.c
+D:\an1sem2\SDA\lab_probleme\lab8-sp\pbO1\queue.c(55,15): warning C4013: 'printf' undefined; assuming extern returning int
+  pbO1.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab8-sp\pbO1\x64\Debug\pbO1.exe

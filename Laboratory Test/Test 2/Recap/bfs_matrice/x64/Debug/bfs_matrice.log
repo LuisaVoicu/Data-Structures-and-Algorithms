@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\an1sem2\SDA\t2\recapitulare_finala\bfs_matrice\Source.c(132,32): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  bfs_matrice.vcxproj -> D:\an1sem2\SDA\t2\recapitulare_finala\bfs_matrice\x64\Debug\bfs_matrice.exe

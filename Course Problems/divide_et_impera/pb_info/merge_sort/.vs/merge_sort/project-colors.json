@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78c88316-9a57-47cc-b9fe-9d258fb944e6": {
+      "ProjectGuid": "78c88316-9a57-47cc-b9fe-9d258fb944e6",
+      "DisplayName": "merge_sort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

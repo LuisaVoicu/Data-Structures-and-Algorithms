@@ -1,0 +1,117 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct NodeType {
+    int key;
+    struct NodeType* next;
+}NodeT;
+
+
+NodeT* create_list(int givenkey)
+{
+    NodeT* q = (NodeT*)malloc(sizeof(NodeT));
+
+    if (NULL == q)
+    {
+        // nu se poate realiza alocarea dinamica
+        exit(1);
+    }
+
+    q->key = givenkey;
+    q->next = NULL;
+
+    return q;
+}
+
+
+void insert_last(NodeT** first, NodeT** last, int givenKey)
+{
+    NodeT* p_first = *first;
+    NodeT* p_last = *last;
+    NodeT* elem = create_list(givenKey);
+
+    if (NULL == p_first)
+    {
+        p_first = elem;
+        p_last = elem;
+    }
+
+    else if (NULL != p_last)
+    {
+        p_last->next = elem;
+        p_last = elem;
+    }
+     *first = p_first;
+     *last = p_last;
+}
+
+void print_list(NodeT* head){
+    //TODO: print list keys
+
+    if(head == NULL)
+    {
+        printf("Lista este vida!");
+    }else
+    {
+       while(NULL != head)
+        {
+        printf("%d ",head->key);
+        head = head->next;
+        }
+
+    }
+    printf("\n");
+
+}
+
+void reverse_list(NodeT** first)
+{
+    //  --> pas1. cautam mijlocul listei
+    //  parcurgem lista din 1 in 1 , respectiv din 2 in 2
+    // (cand poinerul ce parcurge lista din 2 in 2 elemente ajunge la capatul acesteia
+        // pointerul ce parcurge lista din 1 in 1 elemente va pointa catre elementul din mijloc)
+    // sunt efectuati n/2 pasi
+
+    NodeT *trav1 = *first , *trav2 = *first;
+
+    while(trav2 != NULL)
+    {
+
+        printf("%d %d\n",trav1->key , trav2->key);
+
+        trav1 = trav1->next;
+
+        if(trav2->next == NULL)
+        {
+            // am ajuns la capatul listei => nu exista trav2->next->next
+            break;
+        }
+
+        trav2 = trav2->next->next;
+    }
+    
+    
+    // -->pas2. interschimbam elementele din stanga mijlocului cu cele din dreapta  ( mij-1 <-> mij+1 ; mij-2 <-> mij+2 ... )
+    
+    while()
+    
+
+
+}
+
+int main()
+{
+    NodeT* first = NULL, *last = NULL;
+    insert_last(&first,&last,1);
+    insert_last(&first,&last,2);
+    insert_last(&first,&last,3);
+    insert_last(&first,&last,4);
+    insert_last(&first,&last,5);
+    insert_last(&first,&last,6);
+    insert_last(&first,&last,7);
+    insert_last(&first,&last,8);
+    insert_last(&first,&last,9);
+    print_list(first);
+    reverse_list(&first);
+    return 0;
+}

@@ -1,0 +1,69 @@
+// dfs iterativ cu timpi de finalizare si descoperire
+
+typedef struct
+{
+    int n;      // nr vf
+    NodeT** t;  // tablou de liste
+    int* pi;    // vector de parinti
+    int* d;     // timp de descoperire
+    int* f;     // timp de finalizare
+    int* color; // informatii de culoare: white = nedescoperit / gray = descoperit(si nefinalizat) / black = finalizat
+
+}Graf;
+
+enum { WHITE, GRAY, BLACK };
+
+
+void dfs_visit_iterativ(Graf* G, int start)
+{
+    int time = -1;
+
+    push(start);
+    
+    while (!empty())
+    { 
+        int v = pop();
+
+        if (G->color[v] == WHITE)
+        {
+            // elementul v este pentru prima data scos din stiva
+            G->d[v] = ++time;
+            G->color[v] = GRAY;
+            printf("%d ", v);
+        }
+       
+    
+        int gaseste = 0; // gaseste macar un fiu nevizitat
+
+        while (G->t[v] != NULL)
+        {     
+            if (G->color[G->t[v]->key] == WHITE)
+            {   
+                gaseste = 1;
+                G->pi[G->t[v]->key] = v;
+                push(G->t[v]->key);     //  printf("%d ", lista->key);
+                break;
+            }
+
+            G->t[v] = G->t[v]->next;
+        }
+     
+        //  CAZUL 1 -> am parcurs toti subarbori!
+        if (gaseste == 0)
+        { 
+            G->f[v] = ++time;
+            G->color[v] = BLACK;
+        }
+
+        // CAZUL 2 -> nu am parcurs toti subarborii ( mai sunt elemente de parcurs inainte de finalizare) ! => reintroduc parintele in stiva
+        int parinte = G->pi[v];
+        if (parinte != -1 && G->f[v] != -1) // explicatii => cond1: nu e radacina ;
+                                            //		     cond2: e necesar ca copilul sa fie finalizat, altfel parintele va fi finalizat mai devreme decat el (ceea ce e imposibil)
+        {
+            push(parinte);
+        }
+    }
+}
+
+    }
+}

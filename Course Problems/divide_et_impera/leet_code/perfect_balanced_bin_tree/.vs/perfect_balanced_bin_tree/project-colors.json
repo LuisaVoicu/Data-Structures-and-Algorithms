@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be3b5ffc-807a-40d3-aed7-5314f3bcee97": {
+      "ProjectGuid": "be3b5ffc-807a-40d3-aed7-5314f3bcee97",
+      "DisplayName": "perfect_balanced_bin_tree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

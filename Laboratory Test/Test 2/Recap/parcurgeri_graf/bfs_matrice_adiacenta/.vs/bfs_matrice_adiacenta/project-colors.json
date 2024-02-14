@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec5d312a-3636-42b1-9347-5e4e57a2c5bc": {
+      "ProjectGuid": "ec5d312a-3636-42b1-9347-5e4e57a2c5bc",
+      "DisplayName": "bfs_matrice_adiacenta",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,49 @@
+﻿  cchashtable.c
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cchashtable.c(109,25): warning C4101: 'Item': unreferenced local variable
+  ccheap.c
+  ccstack.c
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\ccstack.c(166,20): warning C4047: 'function': 'CC_STACK **' differs in levels of indirection from 'CC_STACK *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\ccstack.c(166,14): warning C4024: 'StCreate': different types for formal and actual parameter 1
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\ccstack.c(175,26): warning C4047: 'function': 'CC_STACK **' differs in levels of indirection from 'CC_STACK *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\ccstack.c(175,15): warning C4024: 'StDestroy': different types for formal and actual parameter 1
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\ccstack.c(184,21): warning C4047: 'function': 'CC_STACK **' differs in levels of indirection from 'CC_STACK *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\ccstack.c(184,15): warning C4024: 'StDestroy': different types for formal and actual parameter 1
+  cctree.c
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(20,43): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(20,51): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(24,45): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(24,53): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(42,24): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(60,43): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(60,51): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(65,45): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(65,53): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(75,43): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(78,49): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(78,61): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(88,39): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(93,38): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(115,25): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(119,26): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(139,28): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(140,29): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(159,29): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(160,30): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(186,27): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(194,28): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(305,28): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(309,29): warning C4133: '=': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(323,39): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(323,67): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(360,34): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(365,33): warning C4133: 'function': incompatible types - from 'CC_TREE *' to 'CC_TREE *'
+  ccvector.c
+  Source.c
+  Generating Code...
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(101): warning C4715: 'Delete': not all control paths return a value
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(148): warning C4715: 'PreOrder': not all control paths return a value
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(121): warning C4716: 'Depth': must return a value
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(202): warning C4715: 'InOrder': not all control paths return a value
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cctree.c(175): warning C4715: 'PostOrder': not all control paths return a value
+D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\cchashtable.c(173): warning C4715: 'HtGetKeyValue': not all control paths return a value
+  PROIECT_Cerc_C_22.02.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab2 - sp\PROIECT_Cerc_C_22.02\x64\Debug\PROIECT_Cerc_C_22.02.exe

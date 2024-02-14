@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "58f057e4-c921-4837-8ca7-5240b5eb243d": {
+      "ProjectGuid": "58f057e4-c921-4837-8ca7-5240b5eb243d",
+      "DisplayName": "8 - de determinat toate drumurile de la x la y in g.o",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

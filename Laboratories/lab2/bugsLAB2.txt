@@ -1,0 +1,6 @@
+pbA1 -> dealocare in delete 
+pbA2 -> dealocare in fct union_list
+
+....................................
+
+PO3 - > lista circulara?

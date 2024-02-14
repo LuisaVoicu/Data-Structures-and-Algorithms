@@ -1,0 +1,9 @@
+﻿  kosaraju.c
+D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\kosaraju.c(34,49): warning C4133: '=': incompatible types - from 'NodeT **' to 'int **'
+D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\kosaraju.c(35,50): warning C4133: '=': incompatible types - from 'NodeT **' to 'int **'
+D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\kosaraju.c(61,24): warning C4133: 'function': incompatible types - from 'int **' to 'NodeT **'
+D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\kosaraju.c(62,25): warning C4133: 'function': incompatible types - from 'int **' to 'NodeT **'
+D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\kosaraju.c(84,34): warning C4020: 'dfs_visit': too many actual parameters
+D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\kosaraju.c(77,1): warning C4133: 'initializing': incompatible types - from 'int *' to 'NodeT *'
+D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\kosaraju.c(102,35): warning C4020: 'dfs_visit': too many actual parameters
+  tare_conexitate_kosaraju(ex3).vcxproj -> D:\an1sem2\SDA\lab_probleme\lab8 - sp\tare_conexitate_kosaraju(ex3)\x64\Debug\tare_conexitate_kosaraju(ex3).exe

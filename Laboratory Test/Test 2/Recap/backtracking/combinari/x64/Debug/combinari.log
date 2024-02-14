@@ -1,0 +1,3 @@
+﻿  combinari.c
+D:\an1sem2\SDA\t2\recap_alg\backtracking\combinari\combinari.c(41,34): warning C4020: 'malloc': too many actual parameters
+  combinari.vcxproj -> D:\an1sem2\SDA\t2\recap_alg\backtracking\combinari\x64\Debug\combinari.exe

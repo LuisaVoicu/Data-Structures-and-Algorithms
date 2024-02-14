@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89060bc2-4ed5-48aa-b865-df6797a71c8f": {
+      "ProjectGuid": "89060bc2-4ed5-48aa-b865-df6797a71c8f",
+      "DisplayName": "ex1_hashTable_chaining",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

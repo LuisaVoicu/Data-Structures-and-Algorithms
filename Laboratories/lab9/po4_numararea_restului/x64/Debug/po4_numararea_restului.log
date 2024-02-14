@@ -1,0 +1,3 @@
+﻿  resturi.c
+D:\an1sem2\SDA\lab_probleme\lab9 - sp\po4_numararea_restului\resturi.c(75,30): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+  po4_numararea_restului.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab9 - sp\po4_numararea_restului\x64\Debug\po4_numararea_restului.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\an1sem2\SDA\curs_probleme\dynamic programming\gigel_si_perele\Source.c(11,1): warning C4047: 'initializing': 'int **' differs in levels of indirection from 'int *'
+  gigel_si_perele.vcxproj -> D:\an1sem2\SDA\curs_probleme\dynamic programming\gigel_si_perele\x64\Debug\gigel_si_perele.exe

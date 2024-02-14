@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\an1sem2\SDA\lab_probleme\lab10-sp\pb_cursuri\tsp-brute_force\Source.c(26,44): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+D:\an1sem2\SDA\lab_probleme\lab10-sp\pb_cursuri\tsp-brute_force\Source.c(35,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+D:\an1sem2\SDA\lab_probleme\lab10-sp\pb_cursuri\tsp-brute_force\Source.c(66,25): warning C4047: 'function': 'int **' differs in levels of indirection from 'int [100][100]'
+D:\an1sem2\SDA\lab_probleme\lab10-sp\pb_cursuri\tsp-brute_force\Source.c(66,21): warning C4024: 'tsp_brute_force': different types for formal and actual parameter 1
+  tsp-brute_force.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab10-sp\pb_cursuri\tsp-brute_force\x64\Debug\tsp-brute_force.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "567b9fb5-d1ee-419d-9397-53f9aa82b85a": {
+      "ProjectGuid": "567b9fb5-d1ee-419d-9397-53f9aa82b85a",
+      "DisplayName": "7 - numarul total de drumuri pana la un nod",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8844e051-0376-4944-9694-2c36ad11c7d4": {
+      "ProjectGuid": "8844e051-0376-4944-9694-2c36ad11c7d4",
+      "DisplayName": "3. longest common subsequence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

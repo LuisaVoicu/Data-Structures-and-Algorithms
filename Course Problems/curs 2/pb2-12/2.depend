@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645871364 source:d:\an1sem2\sda\curs_probleme\2\curs1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c88792bf-710e-4a10-bc67-159ee27fc2c5": {
+      "ProjectGuid": "c88792bf-710e-4a10-bc67-159ee27fc2c5",
+      "DisplayName": "hash_table_direct_addressing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

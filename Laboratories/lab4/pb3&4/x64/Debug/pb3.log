@@ -1,0 +1,7 @@
+﻿  problema3.c
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb3\problema3.c(31,9): warning C4033: 'createBinaryTree' must return a value
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb3\problema3.c(101,45): warning C4474: 'printf' : too many arguments passed for format string
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb3\problema3.c(101,45): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb3\problema3.c(40): warning C4715: 'createBinaryTree': not all control paths return a value
+D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb3\problema3.c(85): warning C4716: 'Depth': must return a value
+  pb3.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab4 - sp\pb3\x64\Debug\pb3.exe

@@ -1,0 +1,4 @@
+﻿  pb9.c
+D:\an1sem2\SDA\lab_probleme\lab5 - sp\pb9\pb9.c(22,13): warning C4033: 'createBinTreeFromFile' must return a value
+D:\an1sem2\SDA\lab_probleme\lab5 - sp\pb9\pb9.c(29): warning C4715: 'createBinTreeFromFile': not all control paths return a value
+  pb9.vcxproj -> D:\an1sem2\SDA\lab_probleme\lab5 - sp\pb9\x64\Debug\pb9.exe

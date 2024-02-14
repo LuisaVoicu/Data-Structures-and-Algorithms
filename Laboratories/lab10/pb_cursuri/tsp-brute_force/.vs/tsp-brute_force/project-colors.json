@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cf3e0e4-7850-449e-b806-8c4a13ee98cc": {
+      "ProjectGuid": "2cf3e0e4-7850-449e-b806-8c4a13ee98cc",
+      "DisplayName": "tsp-brute_force",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
